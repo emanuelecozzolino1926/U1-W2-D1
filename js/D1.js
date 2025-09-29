@@ -33,7 +33,10 @@ Ho utilizzato const perchè il mio nome non cambierà mai
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA */
+/* 
+const somma =  12 + 20; //Ho utilizzato const perchè i numeri non devno essere modificati dal utente finale e hanno un valore fisso
+console.log(somma);
+*/
 
 /* ESERCIZIO 4
  Crea una variable di nome "x" e assegna ad essa il numero 12.
