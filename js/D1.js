@@ -52,7 +52,13 @@ console.log(x);
   Dimostra l'impossibilità di riassegnare un valore ad una variabile dichiarata con il costrutto const.
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA */
+/* 
+// DEBUG ESERCIZIO 2 (SPOSTATO COSI SOPRA FUNZIONA E SI BLOCCA QUI)
+const myName = "Emanuele"; //Ho utilizzato const perchè il mio nome non cambierà mai
+console.log(myName);
+//INCLUSIONE ESERCIZIO 5
+myName = "Giorgio"; //Errore non posso assegnare un nuovo valore a una costante
+*/
 
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
