@@ -1,5 +1,5 @@
 // DEBUG ESERCIZIO 2
-let myName = "Emanuele"; 
+const myName = "Emanuele"; //Ho utilizzato const perchè il mio nome non cambierà mai
 console.log(myName);
 
 // DEBUG ESERCIZIO 3
