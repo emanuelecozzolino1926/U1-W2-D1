@@ -11,8 +11,14 @@ REGOLE
  Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA */
-
+/* 
+String: è la variabile che contiene del testo, come ad esempio il tuo nome o una frase
+Number: è la variabile che contiene un numero, come ad esempio la tua età o il tuo numero civico
+Boolean: è la variabile che può avere solo due valori, vero o falso, esempio: oggi piove Vero o Falso
+Undefined: è una variabile che non ha ancora un valore assegnato, esempio: let nomeVariabile se non assegno un valore alla variabile il suo valore sarà undefined
+null: è una variabile che non ha nessun valore, esempio: let nomeVariabile = null a differenza di undefined questa variabile è stata definita ma non ha nessun valore
+*/
+ 
 /* ESERCIZIO 2
  Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
