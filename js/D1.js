@@ -64,7 +64,13 @@ myName = "Giorgio"; //Errore non posso assegnare un nuovo valore a una costante
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA */
+/* 
+//DEBUG ESERCIZIO 4
+const x = 12; //Ho utilizzato const perchè il numero non deve essere modificato dal utente finale e ha un valore fisso
+//DEBUG ESERCIZIO 6 AGGINGIAMO LA SOTTRAZIONE
+console.log(X - 4);
+
+*/
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
@@ -72,4 +78,8 @@ myName = "Giorgio"; //Errore non posso assegnare un nuovo valore a una costante
  EXTRA: verifica che la loro uguaglianza diventi true se entrambe vengono trasformate in lowercase (senza cambiare il valore di name2!).
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA */
+/* 
+const name1 = "john";
+const name2 = "John";
+console.log(name1 !== name2); 
+*/
