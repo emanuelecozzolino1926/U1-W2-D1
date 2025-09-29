@@ -82,4 +82,13 @@ console.log(X - 4);
 const name1 = "john";
 const name2 = "John";
 console.log(name1 !== name2); 
+
+
+EXTRA:
+
+const name1 = "john";
+const name2 = "John";
+const minuscoloName1 = name1.toLowerCase(); CREIAMO NUOVE VARIABILI (MINUSCOLO e gli diamo il valore della variabile name1 e name2 trasformato in minuscolo)
+const minuscoloName2 = name2.toLowerCase();
+console.log(minuscoloName1 !== minuscoloName2);
 */

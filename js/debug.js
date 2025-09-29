@@ -10,7 +10,9 @@ console.log(x - 4);
 //DEBUG ESERCIZIO 7
 const name1 = "john";
 const name2 = "John";
-console.log(name1 !== name2);
+const minuscoloName1 = name1.toLowerCase(); //CREIAMO NUOVE VARIABILI (MINUSCOLO e gli diamo il valore della variabile name1 e name2 trasformato in minuscolo)
+const minuscoloName2 = name2.toLowerCase();
+console.log(minuscoloName1 !== minuscoloName2);
 
 // DEBUG ESERCIZIO 2 (SPOSTATO COSI SOPRA FUNZIONA E SI BLOCCA QUI)
 const myName = "Emanuele"; //Ho utilizzato const perchè il mio nome non cambierà mai
