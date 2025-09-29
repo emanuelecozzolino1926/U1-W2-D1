@@ -24,9 +24,8 @@ null: è una variabile che non ha nessun valore, esempio: let nomeVariabile = nu
 */
 
 /* 
-const myName = "Emanuele";
-console.log(myName); 
-Ho utilizzato const perchè il mio nome non cambierà mai
+let myName = "Emanuele"; 
+console.log(myName);
 */
 
 /* ESERCIZIO 3
