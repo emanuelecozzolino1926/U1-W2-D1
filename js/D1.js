@@ -23,7 +23,11 @@ null: è una variabile che non ha nessun valore, esempio: let nomeVariabile = nu
  Crea una variable chiamata "myName" e assegna ad essa il tuo nome, sotto forma di stringa.
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA */
+/* 
+const myName = "Emanuele";
+console.log(myName); 
+Ho utilizzato const perchè il mio nome non cambierà mai
+*/
 
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
