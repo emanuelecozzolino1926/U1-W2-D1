@@ -42,7 +42,10 @@ console.log(somma);
  Crea una variable di nome "x" e assegna ad essa il numero 12.
 */
 
-/* SCRIVI QUI LA TUA RISPOSTA */
+/* 
+const x = 12; //Ho utilizzato const perchè il numero non deve essere modificato dal utente finale e ha un valore fisso
+console.log(x); 
+*/
 
 /* ESERCIZIO 5
   Riassegna un nuovo valore alla variabile "myName" già esistente: il tuo cognome.
